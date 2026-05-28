@@ -9,9 +9,9 @@ The main documentation for how to run the project is located in the fork, by pre
 
 ## quick-start guide.
 
-Any terminal can be used to access the project folder using 
+Any terminal can be used to access the project folder using, example is clonsed to desktop
 ```
-cd path/to/project-folder
+cd C:\Users\yourName\Desktop\ais-viz-backend\ntnu-data-bachelor-26-fork
 ```
 The folder is now specifically the one that will be called ntnu-data-bachelor-26-fork to access.
 
