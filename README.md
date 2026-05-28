@@ -1,4 +1,4 @@
-The main documentation for how to run the project is located in the fork, by pressing the fork you are transported to the main site. However a simplified quick-start guide will be put below 
+The main documentation for how to run the project is located in the fork, by pressing the fork you are transported to the main repository with more detailed documentation. However a simplified quick-start guide is put below 
 
 
 ## Prerequesites 
