@@ -23,3 +23,8 @@ To build the docker project while inside of ntnu-data-bachelor-26-fork. write in
 The quickest way to get data generates is through the command ```docker compose --profile geojson-seed up --build```, also detach here when its done. 
 
 After this is done then the database is seeded with the amount of data in ANOMALY_LMIT, and the frontend can be run. 
+
+
+If base stations do not show up correctly (in the ocean and not on the coast) you might need to add the fork as upstream and merge. here is example git remote add upstream  https://github.com/aleksander2299/ntnu-data-bachelor-26-fork.git and then git fetch upstream, then git merge upstream/main
+
+or run git submodule update --init --recursive inside project root 
